@@ -16,8 +16,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/CodeStarkz/CodeStarkz/output/snake.svg" alt="Snake animation" />
 
 ###
