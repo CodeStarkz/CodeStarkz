@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abhishek Singh, an Aspiring Data Engineer<br>
+##Data Analyst | Python Enthusiast
 
 
 ## 🌐 Socials:
