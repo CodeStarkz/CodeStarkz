@@ -18,6 +18,11 @@ I am Abhishek Singh, an Aspiring Data Engineer<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodeStarkz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeStarkz.CodeStarkz&"  />
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeStarkz&icon=0&color=1)](https://visitcount.itsvg.in)
 
