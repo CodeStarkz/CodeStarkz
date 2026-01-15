@@ -11,6 +11,7 @@ I am Abhishek Singh, an Aspiring Data Engineer<br>
 ![](https://github-readme-stats.vercel.app/api?username=CodeStarkz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeStarkz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStarkz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-profile-trophy.vercel.app?username=CodeStarkz&no-bg=true" height="150" alt="trophy graph"  />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
