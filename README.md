@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Data Analyst | Python Enthusiast
+## Data Analyst | Data Engineering | Python Enthusiast
 
 
 ## 🌐 Socials:
