@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Data Analyst | Data Engineering | Python Enthusiast >> Agentic Data Engineer
+## Data Engineering | Python Enthusiast >> Agentic Data Engineer
 
 
 ## 🌐 Socials:
